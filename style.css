@@ -17,13 +17,13 @@ table {
          }
 
 td {
-	border: 1px solid #ffffff;
+	border: 1px solid #ffffffff;
 	text-align:center;
 	background-color:#9FB6CD; 
     }
 
 th {
 	text-align:center;
-	color:#ffffff;
+	color:black;
 	background-color:#003366;
    }
